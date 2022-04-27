@@ -1,2 +1,2 @@
 # Marvel
-A super easy javascript frame work aimed to bridge the gap between js and node.
+A super easy javascript framework aimed to bridge the gap between js and node.
